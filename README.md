@@ -1,10 +1,13 @@
 <div align="center">
 
 # Mbah Lesky (Lespa)
-### **The Devsigner — Full-Lifecycle Software Engineer & Product Designer**
+
+<a href="https://github.com/MbahLesky">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=The+Devsigner+(Designer+%2B+Developer);Full-Lifecycle+Software+Engineer;Offline-First+Architect+(Flutter+%2B+Drift+SQLite);Bridging+Design+Systems+%26+Distributed+Code;Next.js+%2B+React+%2B+Supabase+%2B+Firebase" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <em>Bridging the chasm between design systems and distributed code. Architecting resilient, offline-first digital products from discovery sketch down to the final production pixel.</em>
+  <em>Architecting resilient, offline-first digital products from discovery sketch down to the final production pixel.</em>
 </p>
 
 <p align="center">
@@ -19,6 +22,7 @@
   </a>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects%20%26%20Contracts-059669?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Timezone-UTC%2B1-0284C7?style=flat-square" alt="Timezone" />
+  <img src="https://komarev.com/ghpvc/?username=MbahLesky&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -55,23 +59,34 @@ In modern software cycles, the costliest breakdowns happen during the **design-t
 2. **Engineers** translate those screens into functional but rigid, generic interfaces that strip away visual subtlety, accessibility standards, and the original brand intent.
 
 ### **The Devsigner Advantage**
-I eliminate that gap entirely by treating **design as the visual codebase** and **code as the realized design**. 
+I eliminate that boundary completely by treating **design as the visual codebase** and **code as the realized design**. 
 * **One unified lifecycle:** From blank canvas discovery and token hierarchy in Figma to clean commits, automated tests, and live production deployments.
 * **Zero translation loss:** Code-parity components, mathematically consistent typography, and sub-second interaction design out of the box.
 * **Strictly hand-crafted:** No bloated templates, no drag-and-drop site builders. Every line of markup, styling, and business logic is engineered for longevity and speed.
 
 ---
 
-## 🛠️ Technical Competency & Engineering Stack
+## ⚡ Skills & Technologies
+
+<div align="center">
+
+  <!-- Interactive Icon Grid -->
+  <a href="https://github.com/MbahLesky">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,tailwind,html,supabase,postgres,sqlite,firebase,nodejs,express,php,figma,ai,ps,git,github&perline=10" alt="Tech Stack Icons" />
+  </a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 | Domain | Technologies & Systems | Focus & Architectural Rigor |
 | :--- | :--- | :--- |
-| **Mobile & Offline-First** | `Flutter` `Dart` `Drift (SQLite)` `Dexie` | Offline-first architecture, outbox queue sync, last-write-wins triggers, deterministic local caching, FCM push notifications. |
-| **Modern Web & Full-Stack** | `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Chakra UI` `Vite` | App Router, Server Components, SEO optimization, strict design token mapping, zero layout shifts, accessible DOM. |
-| **Backend & Cloud Data** | `Supabase (PostgreSQL)` `Firebase` `Node.js` `Express` `PHP / MySQL` `PL/pgSQL` | Relational schema design, Row-Level Security (RLS), real-time subscriptions, edge functions, REST APIs, WhatsApp bot integrations. |
-| **Design Systems & Identity** | `Figma` `Adobe Illustrator` `Photoshop` `InDesign` | Atomic component hierarchies, Auto Layout, localized expansion tolerance, scalable vector iconography, in-code CustomPainters. |
+| **📱 Mobile & Offline-First** | `Flutter` `Dart` `Drift (SQLite)` `Dexie` | Offline-first architecture, outbox queue sync, last-write-wins triggers, deterministic local caching, FCM push notifications. |
+| **🌐 Modern Web & Full-Stack** | `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Chakra UI` `Vite` | App Router, Server Components, SEO optimization, strict design token mapping, zero layout shifts, accessible DOM. |
+| **⚡ Backend & Cloud Data** | `Supabase (PostgreSQL)` `Firebase` `Node.js` `Express` `PHP / MySQL` `PL/pgSQL` | Relational schema design, Row-Level Security (RLS), real-time subscriptions, edge functions, REST APIs, WhatsApp bot integrations. |
+| **🎨 Design Systems & Identity** | `Figma` `Adobe Illustrator` `Photoshop` `InDesign` | Atomic component hierarchies, Auto Layout, localized expansion tolerance, scalable vector iconography, in-code CustomPainters. |
 
 </div>
 
@@ -99,7 +114,7 @@ I eliminate that gap entirely by treating **design as the visual codebase** and 
 
 Here are real-world platforms and systems I have architected and engineered:
 
-### 1. [Monilog — Offline-First Financial Ledger Ecosystem](https://github.com/MbahLesky/Monilog-Web)
+### <img src="./assets/monilog_icon.png" width="30" height="30" style="vertical-align: middle;" /> [Monilog — Offline-First Financial Ledger Ecosystem](https://github.com/MbahLesky/Monilog-Web)
 * **The Problem:** Financial tracking tools in emerging markets fail abruptly during network outages and volatile connectivity, causing data loss and synchronization conflicts.
 * **The Solution:** A unified multi-platform finance suite engineered around an **offline-first outbox synchronization pattern**. Writes commit instantaneously to local storage and sync seamlessly upon reconnection.
 * **Engineering Highlights:**
@@ -110,7 +125,7 @@ Here are real-world platforms and systems I have architected and engineered:
 
 ---
 
-### 2. [Skuulabs — Interactive Virtual STEM Laboratory](https://github.com/MbahLesky/Skuulabs-Landing-Page)
+### <img src="./assets/skuulabs_icon.png" width="30" height="30" style="vertical-align: middle;" /> [Skuulabs — Interactive Virtual STEM Laboratory](https://github.com/MbahLesky/Skuulabs-Landing-Page)
 * **The Problem:** High schools and secondary institutions across emerging regions lack expensive physical lab equipment, locking students out of practical science curricula.
 * **The Solution:** An interactive virtual science laboratory enabling students to conduct Physics, Chemistry, Biology, and Mathematics experiments on mobile and web devices.
 * **Engineering & Design Highlights:**
@@ -120,7 +135,7 @@ Here are real-world platforms and systems I have architected and engineered:
 
 ---
 
-### 3. [Bauhaven Academy & Ecosystem](https://github.com/MbahLesky/Bauhaven-Academy-Web)
+### <img src="./assets/bauhaven_icon.png" width="30" height="30" style="vertical-align: middle;" /> [Bauhaven Academy & Ecosystem](https://github.com/MbahLesky/Bauhaven-Academy-Web)
 * **The Problem:** Complex educational institutions need cohesive digital infrastructure—from student application review and admissions to asset management, attendance tracking, and treasury controls.
 * **The Solution:** Co-founded and engineered the internal management platforms, course delivery architectures, and digital curricula driving modern tech training and design literacy.
 * **Engineering Highlights:**
@@ -130,10 +145,37 @@ Here are real-world platforms and systems I have architected and engineered:
 
 ---
 
-### 4. Other Notable Engineering Projects
+### <img src="./assets/zivybb_icon.png" width="30" height="30" style="vertical-align: middle;" /> [Zivybb Music Player](https://github.com/MbahLesky/Zivybb-Music-Player)
+* **The Solution:** Cross-platform Flutter audio playback engine featuring offline audio caching, custom media session management, responsive waveform controls, and custom vector UI theming.
+
+---
+
+### Other Production Backends & Repositories
 * **[Chekkam Backend](https://github.com/MbahLesky/chekkam-backend):** High-throughput backend and browser extension pairing for verification, security, and attendance validation.
 * **[Taximan](https://github.com/MbahLesky/Taximan):** Mobility and transit product addressing urban transportation logistics.
 * **[Lespa Portfolio](https://github.com/MbahLesky/lespa-portfolio):** Minimalist, high-performance visual portfolio showcasing full-lifecycle design-to-code implementations.
+
+---
+
+### 📂 Featured Repository Showcases
+
+<div align="center">
+  <a href="https://github.com/MbahLesky/Monilog-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MbahLesky&repo=Monilog-Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8" alt="Monilog Web" />
+  </a>
+  <a href="https://github.com/MbahLesky/Bauhaven-Academy-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MbahLesky&repo=Bauhaven-Academy-Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8" alt="Bauhaven Academy Web" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/MbahLesky/Skuulabs-Landing-Page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MbahLesky&repo=Skuulabs-Landing-Page&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8" alt="Skuulabs Landing Page" />
+  </a>
+  <a href="https://github.com/MbahLesky/chekkam-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MbahLesky&repo=chekkam-backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8" alt="Chekkam Backend" />
+  </a>
+</div>
 
 ---
 
@@ -148,15 +190,34 @@ I treat visual design with the mathematical rigor of an engineer:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Engineering Analytics & Activity
 
 <div align="center">
+
+  <!-- Profile Trophy Badges -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MbahLesky&theme=flat&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Core Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MbahLesky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8" alt="Mbah Lesky's GitHub Stats" height="165" />
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MbahLesky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=94A3B8" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=MbahLesky&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=60A5FA" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Dynamic Contribution Wave Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MbahLesky&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=38BDF8&point=F59E0B" alt="Activity Wave Graph" width="95%" />
 </div>
 
 ---
@@ -186,4 +247,3 @@ Whether you need a complete MVP engineered from scratch, an offline-first mobile
 </p>
 
 </div>
-
